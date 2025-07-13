@@ -1,0 +1,4 @@
+codeVersion=1.0
+appVersion=1.1
+txtBaseUrl="https://github.com/wwwwwjjjjj114/app_date_files/blob/main/picture_7.13.txt"
+apkUrl="  "
